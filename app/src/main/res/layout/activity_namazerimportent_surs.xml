@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".namazerimportent_surs"
+    android:layout_gravity="center"
+    android:background="@drawable/ba3"
+    android:padding="10dp"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp"
+            android:layout_marginVertical="10dp"
+            android:layout_marginTop="8dp"
+            android:padding="10dp"
+            android:text="সূরা আল ফাতিহা "
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:id="@+id/fatiha"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp"
+            android:layout_marginVertical="10dp"
+            android:layout_marginTop="8dp"
+            android:padding="10dp"
+            android:text=" সূরা আল্‌ ফীল "
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:id="@+id/FILE"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp"
+            android:layout_marginVertical="10dp"
+            android:layout_marginTop="8dp"
+            android:padding="10dp"
+            android:text="সূরা আল-ফালাক "
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:id="@+id/FALAQ"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp"
+            android:layout_marginVertical="10dp"
+            android:layout_marginTop="8dp"
+            android:padding="10dp"
+            android:text="সূরা আন নাস"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:id="@+id/NAS"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="back"
+            android:padding="15dp"
+            android:layout_marginTop="65dp"
+            android:textStyle="bold"
+            android:textSize="35dp"
+            android:textColor="@color/aka"
+            android:background="@color/baa"
+            android:id="@+id/suraback"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

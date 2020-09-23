@@ -1,0 +1,684 @@
+<resources>
+    <string name="app_name">ইসলামের মৌলিক বিষয় </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">alaminhossainnahid@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="apps_name"> ইসলামের মৌলিক বিষয় </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_wether">wether</string>
+
+    <string-array name="name_list">
+        <item> ইমান </item>
+        <item> নামাজ </item>
+        <item> রোজা </item>
+        <item> হজ্জ </item>
+        <item> যাকাত </item>
+
+    </string-array>
+
+
+    <string name="ojure_niom">
+        ওযুর ১৪টি সুন্নাত:\n\n
+
+        1, নিয়ত করা\n
+2,বিসমিল্লাহ্‌ বলে ওযু শুরু করা।\n
+3,হাতের আঙ্গুল খিলাল করা।\n
+4,উভয় হাত কবজি পর্যন্ত ধৌত করা।\n
+5,মিসওয়াক করা।\n
+6,তিনবার কুলি করা।\n
+7,তিনবার নাকে পানি দেয়া।\n
+8,সম্পূর্ন মুখ মন্ডল তিনবার ধৌত করা।\n
+9,উভয় হাতের কনুইসহ তিনবার ধৌত করা।\n
+10,সমস্ত মাথা একবার মাসেহ করা।\n
+11,টাখনু সহ উভয় পা তিবার ধৌত করা।\n
+12,পায়ের আঙ্গুল খিলাল করা।\n
+13,এক অঙ্গ শুকানোর পূর্বে অন্য অঙ্গ ধৌত করা।\n
+14,ধারাবাহিকতা বজায় রেখে ওযুর কাজ গুলো সম্পূর্ন করা।\n
+</string>
+
+    <string name="dowaa">
+        অযুর দোয়া :\n
+        বাংলা উচ্চারণঃ\n
+        আলহামদুলিল্লাহি আলা দ্বীন-ই ইসলাম\n
+        আলইসলামু-হাক্কু, ওল কুফরে বাতীলুন\n  
+        ওল ইসলামু নূরুন, ওল কুফরে জুল্বমাত :\n
+    </string>
+
+    <string name="oju_foroj">
+        ওযুর চার ফরয :\n
+
+১. সমস্ত মুখমন্ডল কপালের উপরিভাগের চুলের গোড়া হইতে থুতনী পর্যন্ত\n
+        এক কর্নের লতি থেকে অন্য কর্নের লতি পর্যন্ত ধৌত করা।\n
+
+২.উভয় হাত কনুইসহ ধৌত করা।\n
+
+৩.চারভাগের একভাগ মাথা মাসেহ করা \n
+        ( ঘন দাঁড়ি থাকিলে আঙ্গুলী দ্বারা খেলাল করা ফরয )।\n
+
+৪.উভয় পা টাখনু গিরা সহকারে ধৌত করা ।\n
+    </string>
+
+    <string name="oju_von">
+        ওযু ভঙ্গের কারণ সমূহ :\n\n
+
+১. পায়খানা প্রস্রাবের রাস্তা দিয়া কোন কিছু বের হওয়া\n
+২. মুখ ভরে বমি হওয়া\n
+৩. শরীরের কোন জায়গা হতে রক্ত, পুঁজ বা পানি বের হয়ে গড়িয়ে পড়া\n
+৪. থুথুর সাথে রক্তের ভাগ সমান বা বেশি হওয়া\n
+৫. চিৎ বা কাত হয়ে হেলান দিয়ে ঘুম যাওয়া\n
+৬. পাগল, মাতাল, অচেতন হওয়া এবং\n
+৭. নামাযে উচ্চস্বরে হাসা।\n
+    </string>
+
+    <string name="gosol">
+
+        গোসলের ফরজ কয়টি ও কি কি ?\n\n
+
+গোসলের ফরজ মোট ৩টি।\n
+        ১. রোজাদার না হলে গড়গড়ার সহিত কুলি করা \n 
+        ২. নাকের নরম স্থান পর্যন্ত পানি পৌঁছানো।\n
+        ৩. সমস্ত শরীরে পানি পৌঁছানো।\n
+        মহিলাদের নাকের ও কানের ছিদ্রেও পানি পৌঁছাতে হবে।
+    </string>
+
+    <string name="tammom">
+        তায়াম্মুমের ফরজ কয়টি ও কি কি ?\n\n
+        সর্বপ্রথম তায়াম্মুমের (১) নিয়ত করে নেবে,\n তার পর
+        (২) উভয় হাত জমিনে উপর মেরে একবার সমস্ত মুখ মণ্ডল মুছে নিবে।\n
+        (৩) পুনরায় জমিনে হাত মেরে উভয় হাত কনুই পর্যন্ত মুছবে।\n
+    </string>
+
+
+    <string name="namazer_arkanahkam">
+        আহকাম ও আরকান মিলিয়ে নামাজের ফরজ মোট ১৩টি।\n\n
+        নামাজ শুরু হওয়ার আগে বাইরে যেসব কাজ ফরজ,\n
+        সেগুলোকে নামাজের আহকাম বলা হয়।\n
+        নামাজের আহকাম ৭টি। যথাঃ\n\n
+        ১. শরীর পাক হওয়াঃ \n
+২. কাপড় পাক হওয়াঃ  \n
+
+৩. নামাজের জায়গা পাক হওয়াঃ \n
+
+৪. সতর বা শরীর ঢাকাঃ \n
+৫. কিবলামুখী হওয়াঃ \n
+৬. ওয়াক্ত অনুযায়ী নামাজ পড়াঃ\n
+৭. নামাজের নিয়্যাত করাঃ  \n
+
+নামাজ শুরু করার পর নামাজের ভেতরে যেসব কাজ ফরজ,\n
+
+        সেগুলোকে নামাজের আরকান বলা হয়। নামাজের আরকান ৬টি।যথাঃ\n
+
+১. তাকবিরে-তাহরিমা বলাঃ \n
+২. দাঁড়িয়ে নামাজ পড়াঃ\n
+৩. ক্বেরাত পড়াঃ\n
+৪. রুকু করাঃ  \n
+৫. সিজদা করাঃ \n
+৬. শেষ বৈঠক করাঃ\n
+সূত্রঃ বুক অব ইসলামিক নলেজ, লেখকঃ ইকবাল কবীর মোহন\n\n
+    </string>
+
+    <string name="namazer_wajib">
+নামাযের ওয়াজিবসমূহ\n\n
+
+ওয়াজিব অর্থ হলো আবাশ্যক। নামাযের মধ্যে কিছু বিষয় আছে অবশ্য করণীয়।\n
+        তবে তা ফরজ নয়, আবার সুন্নাতও নয়।\n
+        যা ভুলক্রমে ছুটে গেলে সিজদায়ে সাহু দিতে হয়।আর ইচ্ছাকৃতভাবে ছেড়ে দিলে নামায ভঙ্গ হয়ে যায়। নিচে ওয়াজিবসমূহ উপস্থাপন করা হলো ।\n\n
+        নামাযের ওয়াজিব মোট ১৪টি।যথাঃ\n\n
+১. সূরা ফাতিহা পাঠ করাঃ\n
+২. সূরা ফাতিহার সাথে অন্য সূরা মিলানোঃ\n
+৩. তারতীব মত নামায আদায় করাঃ \n
+৪. প্রথম বৈঠকঃ \n
+৫. আত্তাহিয়্যাতু পাঠ করাঃ\n
+৬. প্রকাশ্য কিরা’আত পাঠ করাঃ\n
+৭. চুপিসারে কিরা‘আত পাঠ করাঃ \n
+৮. তা’দীলে আরকান বা ধীরস্থিরভাবে নামায আদায় করাঃ\n
+৯. রুকু’থেকে সোজা হয়ে দাঁড়ানোঃ \n
+১০. সিজদা থেকে সোজা হয়ে বসাঃ\n
+        দু’ সিজদার মাঝখানে সোজা হয়ে বসা ওয়াজিব।\n
+১১. সালাম বলাঃ  নামায শেষে “আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহ” বলে নামায শেষ করা।\n
+        ইমাম শাফেয়ী রাহমাতুল্লাহ আলাই এর মতে এটি ফরজ।\n
+১২. তারতীব ঠিক রাখাঃ \n
+        প্রত্যেক রাকা’আতের তারতীব বা ধারাবাহীকতা ঠিক রাখা অর্থাৎ আগের কাজ পেছনে এবং পেছনের কাজ আগে না করা।\n
+১৩. দু’আ কুনুত পাঠ করাঃ  \n
+        বেতরের নামাযে দু’আ কুনুত পাঠ করা ওয়াজিব।\n
+১৪. ঈদের নামাযে তাকবীরঃ \n
+        দুই ঈদের নামযে অতিরিক্ত ছয়টি তাকবীর বলা ওয়াজিব।\n
+সূত্রঃ রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নামায, দারুস সালাম বাংলাদেশ\n\n
+    </string>
+
+    <string name="namazer_sunnat">
+        নামাজের সুন্নাত সমূহ\n\n
+
+১। আজান ও ইকামত বলা। \n
+২। তাকবিরে তাহরিমার সময় উভয় হাত উঠানো। \n
+৩। হাত উঠানোর সময় আঙ্গুলগুলি স্বাভাবিক রাখা।  \n
+৪। ইমামের জন্য তাকবীর গুলিউচ্চ স্বরে বলা। \n
+৫। সানা পড়া। \n
+৬। আউযুবিল্লাহ পড়া। \n
+৭। বিসমিল্লাহ পড়া। \n
+৮। অনুচ্চস্বরে আমীন বলা। \n
+৯। সানা,আউযুবিল্লাহ বিসমিল্লাহ,আমীন অনুচ্চস্বরে বলা।\n
+১০। হাত বাধার সময় বাম হাতের উপর ডান হাত রাখা।\n
+১১। পুরুষের জন্য নাভির নিচে,আর মহিলার জন্য বুকের উপর হাত বাঁধা। \n
+১২। এক রোকন থেকে অন্য রোকনে যাবার সময় “আল্লাহু আকবার” বলা। \n
+১৩। একাকী নামাজ পাঠকারির জন্য রুকু থেকে উঠার সময় “সামিয়াল্লাহুলিমান হামিদা” ও “রব্বানা লাকাল হামদ” বলা।\n
+        ইমামের জন্য শুধু “সামিয়া’ল্লাহু লিমান হামিদা” বলা আর মুক্তাদির জন্য শুধু “রব্বানা লাকাল হামদ” বলা। \n
+১৪। রুকুতে “সুবহানা রব্বিয়াল আযীম” বলা। \n
+১৫। সেজদায় বলা “সুবহানা রব্বিয়াল আ’লা”। \n
+১৬। রুকুতে উভয় হাটু আকড়ে ধরা। \n
+১৭। রুকুতে পুরুষের জন্য উভয় হাতের আঙ্গুল ফাঁকা রাখা। আর মহিলার জন্য মিলিয়ে রাখা। \n
+১৮। পুরুষের জন্য নামজে বসার সময় বাম পা বিছিয়ে তার উপর বসা ও ডান পা খাড়া রাখে আঙ্গুলগুলো কেব্লার দিক করে রাখা। \n
+        আর মহিলার জন্য উভয় পা ডান দিকে বের করে জমিনের উপর বসা। \n
+১৯। শেষ বৈঠকে তাশাহ্যুদের পর দুরুদ শরীফ পড়া।\n
+২০। দুরুদের পর দোয়া পড়া। \n
+২১। তাশাহ্যুদে “লা-ইলাহা ইল্লাল্লাহ” বলার সময় শাহাদাত(তর্জনি) আঙ্গুল দ্বারা কেবলার দিকে ইশারা করা।\n
+
+    </string>
+
+    <string name="namazer_mustahab">
+
+
+নামাজের মুস্তাহাব সমূহ\n\n
+
+১। দাঁড়ানো অবস্থায় সেজদার স্থানের দিকে, রুকু অবস্থায় উভয় পায়ের পাতার উপর,\n
+        সেজদার সময় নাকের দিকে, বৈঠকের সময় কোলের দিকে দৃষ্টি রাখা। \n
+২। তাকবীরে তাহরিমা বলার সময় হাত চাদর থেকে বাহিরে বের করে রাখা।\n
+৩। সালাম ফিরানোর সময় উভয় কাঁধের উপর দৃষ্টি রাখা। \n
+৪। নামাজে মুস্তাহাব পরিমান ক্বেরাত( ফজর ও যোহরে তিওয়ালে মুফাস্যাল,\n
+        সূরা হুজরাত থেকে সূরা বুরুজ পর্যন্ত।আছর ও ইশাতে আওসাতে মুফাস্যাল\n
+        , সূরা তরেক থেকে বায়্যিনা পর্যন্ত। মাগরীবে কিসারে মুফাস্যাল সূরা যিলযাল থেকে শেষ পর্যন্ত।)পড়া।\n
+৫। জুমআর দিন ফজরের নামাজে প্রথম রাকাতে সূরা আলিফ,লাম,\n
+        মিম সেজদা ও দ্বিতীয় রাকাতে সূরা দাহর পড়া।\n
+৬। যথা সম্ভব কাঁশি ও ঢেকুর চেপে রাখা।\n
+৭। হাই আসলে মুখ বন্ধ রাখার চেষ্টা করা।\n\n
+
+    </string>
+
+    <string name="namazer_vongerkaron">
+
+        নামায ভঙ্গের কারণসমূহ\n\n
+নামায বিশুদ্ধ হওয়ার জন্য যেমন কিছু শর্ত রয়েছে,\n
+        তেমনিভাবে নষ্ট হওয়ার জন্যও কিছু সুনির্দিষ্ট কারণ রয়েছে।\n
+        নিম্নোক্ত কারণে নামায নষ্ট হয়ে যায়। যথাঃ\n
+১. সালামের জবাব দিলে :\n
+২. নামাযের মধ্যে সালাম দিলে :\n
+৩. দুঃখসূচক শব্দ উচ্চারণ করা :\n
+৪. নামাযের ফরয ছুটে গেলেঃ \n
+৫. কিরা আতে ভুল করলে :\n
+৬. নামাযে কিরা আত দেখে দেখে পড়া :\n
+৭. নামাযের মধ্যে কথা বলাঃ\n
+৮. নেশাগ্রস্ত অবস্থায় নামায পড়লে :\n
+৯. ইচ্ছাকৃতভাবে ওয়াজিব ছেড়ে দিলে :\n
+১০. অট্টহাসি দিলে :\n
+১১. অপ্রাসঙ্গিক কিছু করা :\n
+১২. অন্য দিকে ঘুরে গেলেঃ নামাযের মধ্যে কিবলার দিক থেকে অন্য দিকে ফিরে গেলে নামায ভঙ্গ হয়ে যাবে।\n
+১৩. বাচ্চাকে দুধ পান করালে : নামাযরত স্ত্রীলোকের দুধ যদি তার সন্তান এসে খায়, তবে নামায ভঙ্গ হয়ে যাবে।\n
+১৪. হাঁচির জবাব দেয়া :\n
+১৫. চলাফেরা করলে :\n
+১৬. অপবিত্র স্থানে সিজদা করলে :\n
+১৭. আমলে কাসীর হলে : \n
+১৮. নিজের ইমাম ছাড়া অন্যকে লোকমা দেয়া :\n
+১৯. নামাজে দুনিয়াবী কথাবার্তা বলাঃ\n
+২০. নামাযে কাতার সোজা না করে নামায পড়\n
+২১. বিনা অজুতে নামায পড়া\n
+২২. অন্যান্য : কোনো পত্র বা লেখার প্রতি দৃষ্টি পড়ায় তা মুখে উচ্চারণ করলে নামায ভঙ্গ হয়ে যাবে।\n
+২৩. তিন তাসবীহ পাঠ পরিমাণ সময় সতর খুলে থাকা ।\n
+২৪. নামাযে খাওয়া বা পান করা ।\n
+    </string>
+
+    <string name="masnun_dowa">
+        জায়নামাজের দোয়াঃ\n\n
+
+"জায়নামাজে দাঁড়িয়ে নামাজ শুরুর পূর্বেই এই দোয়া পড়তে হয়,"\n\n
+বাংলা উচ্চারন-\n\n
+        "ইন্নি ওয়াজ্জাহ তু ওয়াজ্ হিয়া লিল্লাজি, ফাত্বরস্ সামা-ওয়া-তি  ওয়াল্ আরদ্বঅ হানি-ফাওঁ ওয়ামা-আনা মিনাল মুশরিকী-ন।"\n\n
+"অর্থ-নিশ্চই আমি তারই দিকে মুখ করলাম, যিনি আসমান ও যমীন সৃষ্টি করেছেন \n
+        এবং বাস্তবিকই আমি মুশরিকদের অন্তর্ভুক্ত নই ।"\n\n
+এরপর নামাজের নিয়াত ও তাক্ বীরে তাহঃরীমা\n\n
+নামাজের ইচ্ছা করাই হচ্ছে নামাজের নিয়াত করা।\n\n
+        মুখে উচ্চারণ করা জরুরী নয়, তবে মুস্তাহাব।\n\n
+সমস্ত নামাজেই ,নাওয়াইঃতু আন্ উছাল্লিয়া লিল্লাহি তায়া’লা\n\n
+(২ রাকাত হলে) রাক্ ‘য়াতাই ছালাতিল\n\n
+(৩ রাকাত হলে) ছালাছা রাক্ ‘য়াতাই ছালাতিল\n\n
+(৪ রাকাত হলে) আর্ বায়  রাক্ ‘য়াতাই ছালাতিল\n\n
+(ওয়াক্তের নাম) ফাজ্ রি/ জ্জুহরি/আ’ছরি/মাগরিবি/ইশাই/জুমুয়া’তি\n\n
+(কি নামাজ তার নাম) ফারদ্বুল্ল-হি/ওয়াজিবুল্ল-হি/সুন্নাতু রসূলিল্লাহি/নাফলি।\n\n
+(সমস্ত নামাজেই) তায়া’লা মুতাওয়াজ্জিহান্ ইলা জিহাতিল্ কা’বাতিশ শারীফাতি আল্ল-হু আক্ বার।\n\n
+"বাংলায় নিয়াত করতে চাইলে বলতে হবে,"\n\n
+আমি আল্লা-হ্’র উদ্দেশ্যে ক্কেবলা মুখী হয়ে,\n\n
+        "ফজরের/জোহরের/আসরের/মাফরিবের/ঈশার/জুময়ার/বি’তরের/তারঅবি/তাহাজ্জুদের (অথবা যে নামাজ হয় তার নাম)"\n
+২ র’কাত/৩র’কাত/৪ র’কাত (যে কয় রাকাত নামাজ তার নাম)\n\n
+ফরজ/ওয়াজিব/সুন্নাত/নফল নামাজ পড়ার নিয়াত করলাম, আল্ল-হু আকবার ।\n\n
+তাকবীরে তাহরীমা- আল্লাহু আক্ বার, অর্থ-আল্লাহ মহান ।\n\n
+"সানাঃ] (হাত বাধার পর এই দোয়া পড়তে হয়)"\n\n
+উচ্চারণ :-\n\n
+        "সুবহা-না কাল্লা-হুম্মা ওয়া বিহাম্ দিকা ওয়াতাবারঅ কাস্ মুকা ওয়াতা’ আ-লা জাদ্দুকা ওয়া লা-ইলা-হা গাইরুক।"\n\n
+অর্থ-\n
+        "হে আল্লাহ ! আমি আপনার পবিত্রতা ঘোষণা করছি এবং আপনার মহিমা বর্ণনা করছি।"\n\n
+        আপনার নাম বরকতময়, আপনার মাহাত্ম্য সর্বোচ্চ এবং আপনি ভিন্ন কেহই ইবাদতের যোগ্য নয় ।\n\n
+তাআ’উজঃ\n\n
+
+উচ্চারণ- \n
+        "আউযুবিল্লা-হি মিনাশ শাইত্বা-নির রাজীম ।"\n\n
+অর্থ-\n
+        "বিতারিত শয়তান থেকে আল্লাহর কাছে আশ্রয় চাচ্ছি ।"\n\n
+তাসমিয়াঃ\n
+        "বিসমিল্লাহির রাহমানির রাহিম ।"\n\n
+অর্থ-\n
+        "পরম দাতা ও দয়ালু আল্লাহর নামে শুরু করছি ।"\n\n
+রুকুর তাসবীহঃ\n\n
+উচ্চারণ-\n
+        "সুবহা-না রব্ বি ইঃয়াল্ আ’জ্বীম।\n
+        অর্থ-মহান প্রতিপালকের পবিত্রতা ও মহাত্মতা ঘোষণা করছি ।"\n\n
+তাসমীঃ (রুকু থেকে দাঁড়ানোর সময় পড়তে হয়)\n
+উচ্চারণ-\n
+        "সামি আল্লা হুলিমান হামিদাহ,"\n
+অর্থ-\n
+        "প্রশংসাকারীর প্রশংসা আল্লাহ শোনেন ।"\n
+তাহমীদঃ\n
+        (রুকু থেকে দাঁড়িয়ে পড়তে হয়)\n
+উচ্চারণ-\n
+        "রাব্বানা লাকাল হামদ ।\n
+        অর্থ- হে আমার প্রভু, সমস্ত প্রশংসা আপনারই ।"\n
+সিজদার তাসবীহঃ\n
+উচ্চারণ-\n
+        "সুবহা-না রাব্বিয়াল আ’লা।\n
+        অর্থ- আমার প্রতিপালক যিনি সর্বশ্রেষ্ট, তারই পবিত্রতা বর্ণনা করছি ।"\n\n
+দু’সিজদার মাঝখানে পড়ার দোয়াঃ\n\n
+উচ্চারণ-\n
+        "আল্লাহু ম্মাগ ফিরলী ওয়ার হামনি ওয়ার যুক্কনী ।"\n\n
+অর্থ-\n
+        "হে আল্লাহ, আমাকে ক্ষমা করুন, আমাকে রহম করুন, আমাকে রিজিক দিন ।"\n\n
+তাশাহুদ বা আত্তাহিয়্যাতুঃ\n\n
+
+উচ্চারণঃ\n\n
+        "আত্তাহিয়্যাতু লিল্লা-হি,  ওয়াছ ছালা-ওয়াতু,\n
+        ওয়াত-তাইয়্যিবা তু, আচ্ছালা মু আ’লাইকা, \n\n
+        আইয়্যুহান নাবিয়্যু, ওয়ারাহ মাতুল্লাহি ওয়া বারাকাতুহ,\n\n
+        আচ্ছালামু আলাইনা, ওয়া আ’লা ইবাদিল্লা হিছ-ছা লিহীন।\n\n
+        আশহাদু আল লা-ইলা-হা ইল্লাল্লাহু,\n
+        ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসুলুহু ।"\n\n
+
+দরুদ শরীফঃ\n\n
+উচ্চারণ-\n\n
+        "আল্লহুম্মা ছাল্লি আ’লা মুহাম্মাদিওঁ ওয়া আ’লা আ-লি মুহাম্মাদিন\n\n
+        কামা ছাল্লাইতা আ’লা ইব্রহীমা\n
+        ওয়া আ’লা আ-লি ইব্রহীমা ইন্নাকা হামীদুম মাজী-দ্ ।\n\n
+        আল্লাহুম্মা বারিক্ আ’লা মুহাম্মাদিওঁ ওয়া আ’লা আ’লি মুহাম্মাদিন,\n\n
+        কামা বা-রাকতা আ’লা ইব্রহীমা ওয়া আ’লা আ’লি ইব্রহীমা ইন্নাকা হামিদুম মাজীদ ।"\n\n
+
+দোয়ায়ে মাসূরাঃ\n\n
+উচ্চারন- \n\n
+        "আল্লা-হুম্মা ইন্নী জ্বলামতু নাফসী \n
+        জুলমান কাছীরও ওয়ালা ইয়াগফিরু যুনূবা\n
+        ইল্লা আনতা ফাগ্ ফিরলী মাগফিরাতাম মিন ইনদিকা\n
+        ওয়ার হামনী ইন্নাকা আনতাল গাফুরুর রাহীম।"\n\n
+দোয়ায়ে কুনুতঃ \n\n
+       " (বিতরের নামাজের পর ৩য় রাকায়াতে সূরা ফাতিহা ও অন্য কিরআত পড়ার পর এই দোয়া পড়তে হয় )।"\n\n
+উচ্চারণ-\n
+        “আল্লাহুম্মা ইন্না নাসতা’ঈনুকা ওয়া নাসতাগ ফিরুকা,\n
+        ওয়া নু’মিনু বিকা ওয়া না তা ওয়াক্কালু আলাইকা \n\n
+        ওয়া নুছনি আলাইকাল খাইর। ওয়া নাশকুরুকা, \n
+        ওয়ালা নাকফুরুকা, ওয়া নাখ লা, \n
+        ওয়া নাত রুকু মাইয়্যাফ জুরুকা।\n\n
+        আল্লাহুম্মা ইয়্যাকা না’বুদু ওয়ালাকা নুছাল্লি\n\n
+        ওয়া নাসজুদু ওয়া ইলাইকা নাস’আ, \n\n
+        ওয়া নাহফিদু ওয়া নারজু রাহমাতাকা \n
+        ওয়া নাখ’শা আযাবাকা\n
+        ইন্না আযা-বাকা বিল কুফফা-রি মুল হিক ।”\n\n
+
+    </string>
+
+    <string name="sura_fatiha">
+
+بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِِ {1}\n\n
+
+\nالْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ {2}
+
+        الرَّحْمـنِ الرَّحِيمِ {3}\n\n\n
+مَالِكِ يَوْمِ الدِّينِ {4}\n\n
+
+إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ {5}\n\n
+
+اهدِنَــــا الصِّرَاطَ المُستَقِيمَ {6}\n\n
+
+صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ \n\n
+        غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ الضَّالِّينَ {7}\n\n
+    </string>
+    <string name="sura_fil">
+        সূরা ফীল আরবি:n\
+
+n\n\أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ
+
+أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلn\n\ٍ
+
+n\n\وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
+
+n\n\تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ
+
+n\n\فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
+    </string>
+
+    <string name="sura_falaq">
+
+بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيم\n
+
+ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\n
+ مِن شَرِّ مَا خَلَقَ\n
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\n
+ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\n
+وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ\n
+
+    </string>
+
+    <string name="sura_nas">
+بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ
+قُلْ أَعُوذُ بِرَبِّ النَّاسِ
+مَلِكِ النَّاسِ
+إِلَهِ النَّاسِ
+مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
+الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
+مِنَ الْجِنَّةِ وَ النَّاسِ
+    </string>
+
+    <string name="namazer_monaj">
+        1,মোনাজাতের দোয়া
+
+        1, إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+        2.7 صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+110,3 فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا
+    </string>
+
+    <string name="rj_niat">
+       রোজার নিয়ত
+
+نَوَيْتُ اَنْ اُصُوْمَ غَدًا مِّنْ شَهْرِ رَمْضَانَ
+        الْمُبَارَكِ فَرْضَا لَكَيَا اللهُ فَتَقَبَّل مِنِّى
+      اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْم
+
+আরবি নিয়ত :
+        নাওয়াইতু আন আছুম্মা গাদাম মিন শাহরি রমাজানাল মুবারাকি ফারদাল্লাকা,
+        ইয়া আল্লাহু ফাতাকাব্বাল মিন্নি ইন্নিকা আনতাস সামিউল আলিম।,
+    </string>
+    <string name="ifter_dowa">
+   ইফতারের সময় হওয়ার সঙ্গে সঙ্গে দোয়া পড়ে ইফতার করা
+
+اَللَّهُمَّ لَكَ صُمْتُ وَ عَلَى رِزْقِكَ وَ
+        اَفْطَرْتُ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِيْمِيْن
+
+উচ্চারণ :
+        আল্লাহুম্মা লাকা ছুমতু ওয়া আলা রিযক্বিকা
+        ওয়া আফতারতু বিরাহমাতিকা ইয়া আরহামার রাহিমিন।
+
+    </string>
+    <string name="trabi_namazer_dowa">
+
+         দোয়াটি হলো-
+বাংলা উচ্চারণ:
+        সুব্হানাযিল মুলকি ওয়াল মালাকুতি, সুব্হানাযিল ইয্যাতি, \n
+        ওয়াল আয্মাতি, ওয়াল হাইবাতি, ওয়াল কুদরাতি, ওয়াল কিবরিয়াই,
+        ওয়াল যাবারুত। সুব্হানাল মালিকিল হাইয়্যিল্লাজি লা-ইয়াানামু ওয়ালা ইয়ামুতু আবাদান আবাদা।
+        সুব্বুহুন কুদ্দুছুন রাব্বুনা ওয়া রাব্বুল মালাইকাতি ওয়ার রূহ।
+        
+    </string>
+    <string name="tarabir_monajat">
+        তারাবি নামাজের মোনাজাত:
+    বাংলা উচ্চারণ:\n
+        (আল্লা-হুম্মা ইন্না নাস আলুকাল্ জান্নাতা ওয়া নাউজুবিকা\n
+        মিনান্নারি ইয়া খালিকাল জান্নাতা ওয়ান্নারি বিরাহমাতিকা ইয়া আজীজু,\n
+        ইয়া গাফ্ফারু, ইয়া কারীমু, ইয়া সাত্তারু, ইয়া রাহিমু ,\n
+        ইয়া জাব্বারু ইয়া খালেকু, ইয়া রাররূ,\n
+        আল্লাহুমা আজির না মিনান্নারি, ইয়া মূজিরু ইয়া মুজিরু,\n
+        বিরাহ্মাতিকা ইয়া আরহামার রাহিমীন।)\n
+
+
+    </string>
+    <string name="hazz_forj">
+
+        ১।    ইহরাম বাঁধা,
+        ২।    উকূফে আরাফাহ (আরাফার ময়দানে অবস্থান করা), n\n\
+        ৩।    তাওয়াফে যিয়ারাত (চার চক্কর পরিমাণ)n\n\
+    </string>
+    <string name="hazz_wajib">
+
+        হজ্জের মধ্যে ওয়াজিব কাজ মোট ৮টি।যথা-n\n
+
+(১)   মীকাত থেকে ইহরাম বাঁধা।\n
+(২)   সূর্য্য অস্ত যাওয়া পর্যন্ত আরাফাতে অবস্থান করতে থাকা।n\n\
+(৩)   আরাফার দিন শেষে ঈদের রাতটি ফজর পর্যন্ত মুযদালিফায় অবস্থান করা যতক্ষণ আকাশ প্রস্ফুটিত না হয়।n\n\
+(৪)   আইয়ামে তাশরিকেরঃ অর্থাৎ [১১.১২ ও ১৩ তারিখের ] রাত্রি গুলি মীনা এলাকায় কাটানো।n\n\
+(৫)   আইয়ামে তাশরিকের দিন গুলিতে তিন জামারাতেই কংকর তথা পাথর নিক্ষেপ করা।n\n\
+(৭)   শুধু মাত্র ক্বিরান ও তামাত্তু হজ্জ্ব পালনকারীদের জন্য হাদয়ী তথা হজ্জ্বের কুরবানী করা।n\
+(৮)   সকলের জন্য বিদায়ী তাওয়াফ করা।\n
+    </string>
+    <string name="hazz_sunnat">
+
+        হজ্জ্বের সুন্নাতসমূহn\n\
+১।  মিকাতের বাইরে থেকে আগত ইফরাদ ও কেরান হজ্জ্ব পালনকারীর জনু তাওয়াফে কুদুম করা।n\n\
+২।  তাওয়াফে কুদূমের পর যদি হজ্জ্বের সায়ী করার ইচ্ছা থাকে, তবে তাতে রমল ও ইযতিবা করাn\n\
+৩।  সাফা মারওইয়ায় সায়ীর সময় সবুজ দুপিলারের মধ্যবর্তী স্থান পুরুষের জন্য দৌড়ে অতিক্রম করা এবং অবশিষ্ট স্থান হেঁটে চলা।n\n\
+৪।  ৮ই জিলহজ্জ বাদ ফজর মিনার উদ্দেশ্যে রওয়া হওয়া এবং তথায় পাঁচ ওয়াক্ত সালাত (নামায) আদায় করা।n\n\
+৫।  ৯ই জিলহজ্জ সূর্যোদয়ের পর মিনা হতে আরাফার উদ্দেশ্যে রওয়ানা হওয়া।n\n\
+৬।  আরাফা থেকে সুর্যাস্তের পর ধীরস্থীরভাবে মুযদালিফার উদ্দেশ্যে রওয়ানা হওয়া।n\n\
+৭।  ৯ই যিলহজ্জ সূর্যাস্তের পর আরাফা থেকে মুযদালিফায় এসে রাতযাপন করা।n\n\
+৮।  আরাফার ময়দানে গোসল করা।n\
+৯।  ৮ই যিলহজ্জ দিনগত রাতসহ মিনায় অবস্থানের দিনগুলোয়তে রাতযাপনও মিনাতে করা। n\n\
+    </string>
+
+    <string name="hatajari_discriptio">
+        Al-Jamiatul Ahlia Darul Ulum Moinul Islam was first established in 1896 CE.\n\n
+        It was moved to its present location in Hathazari, Bangladesh in 1901.\n\n
+        The Jamiah introduces the Islamic education and Reformation movement in this region.\n\n
+        Darul Uloom Deoband was established in Indian Subcontinent in 1866 CE.\n\n
+        A few Ulema of the port-city Chittagong took the decision to establish\n\n
+        Al-Jamiatul Ahlia Darul Ulum Moinul Islam according to the constitution of Darul Uloom Deoband.\n\n
+        To apply this decision Habibullah along with Abdul Wahed, Azizur Rahman and Abdul Hamid established the madrasah.\n\n
+The Hathazari Madrasah became "arguably the most reputable Quomi madrasa in the country.\n\n
+
+    </string>
+
+    <string name="Madina_discription">
+          Medina[a], also transliterated as Madīnah (Hejazi pronunciation:\n\n
+        is the capital of the Al-Madinah Region in Saudi Arabia. At the city\'s heart \n\n
+        is al-Masjid an-Nabawi (\'The Prophet\'s Mosque\'),\n\n
+        which is the burial place of the Islamic prophet, \n\n
+        Muhammad(s).
+
+    </string>
+    <string name="Madina_discription2">
+         Medina is one of the three holiest cities in Islam,\n
+        the other two being Mecca and Jerusalem.\n
+
+
+    Medina was Muhammad (s) destination in his Hijrah migration from Makkah\n\n
+        and became the capital of a rapidly increasing Muslim Empire\n
+        under Muhammad(s) leadership, serving as the power base of Islamn\n\n
+        and where Muhammad(s) Ummah (Community)\n\n
+    </string>
+    <string name="Madina_discription3">
+          composed of both locals and immigrants from Muhammad(s) original home of Mecca, developed.\n\n
+        Medina is home to three prominent mosques, namely al-Masjid an-Nabawi,\n
+        Quba Mosque, and Masjid al-Qiblatayn (The mosque of the two Qiblas).\n
+        Muslims believe that the chronologically final surahs of the Quran were revealed to Muhammad(s) in Medina,\n\n
+        and are called Medinan surahs in contrast to the earlier Meccan surahs.\n\n
+
+    </string>
+    <string name="mocca_discription1">
+          Mecca, also spelled Makkah, is a city in the Hejazi region of Saudi Arabia.\n\n
+        The city is located 70 km (43 mi) inland from Jeddah,\n\n
+        in a narrow valley 277 m (909 ft) above sea level,\n\
+        340 kilometres (210 mi) south of Medina, its population in 2012 was 2 million,\n\n
+
+    </string>
+    <string name="mocca_dis2">
+      although visitors more than triple this number every year during the Ḥajj Pilgrimage,\n\n
+        held in the twelfth Muslim lunar month of Dhūl-Ḥijjah.\n\n
+
+</string>
+
+    <string name="mocca_dis3">
+      It is the birthplace of Muhammad(s) a cave 3 km (2 mi) from Mecca was \n\n
+        the site of Muhammad(s) first revelation of the Quran,\n\n
+        and a pilgrimage to it, known as the Hajj, is obligatory for all able Muslims.\n\n
+        Mecca is home to the Kaaba, one of Islam\'s holiest sites and the direction of Muslim prayer,\n\n
+        and thus Mecca is regarded as the holiest city in Islam.\n\n
+</string>
+    <string name="baitulmokkerro_discription">
+         Baitul Mukarram, also spelled as Baytul Mukarrom\n\n
+        (Arabic: بيت المكرّم‎; Bengali: বায়তুল মোকাররম; \n\n
+
+    </string>
+    <string name="baitulmokkerro_discription2">
+         The Holy House) is the National Mosque of Bangladesh.\n\n
+        Located at the center of Dhaka, capital of Bangladesh,\n\n
+        the mosque was completed in 1968. It has a capacity of 40,000.\n\n
+
+    </string>
+    <string name="gutiamosjid_discription">
+
+    The Baitul Aman Jame Masjid Complex (Bengali: বাইতুল আমান জামে মসজিদ,\n\n
+        Arabic: بيت الأمان جامع مسجد‎),\n\n
+        commonly known as Guthia Mosque (Bengali: \n\n
+        গুঠিয়া মসজিদ) of Barisal,\n\n
+
+
+    </string>
+    <string name="gutiamosjid_discription2">
+          is a mosque complex of Bangladesh having a land area of 14 acres\n\n
+        comparing to the 8.30 acres land area of the national mosque Baitul Mukarram of the country.\n\n
+    </string>
+
+    <string name="gutiamosjid_discription3">
+          The Baitul Aman Jame Masjid Complex consists of a mosque,\n\n
+        a large eidgah, a graveyard, three lakes, a madrasa and an orphanage.\n\n
+        Established on December 16, 2003, Guthia Mosque is also a tourist spot in Bangladesh.\n\n
+
+    </string>
+
+    <string name="hatajari_madrasah1">
+        Al-Jamiatul Ahlia Darul Ulum Moinul Islam was first established in 1896 CE.\n\n
+        It was moved to its present location in Hathazari, Bangladesh in 1901.\n\n
+        The Jamiah introduces the Islamic education and Reformation movement in this region.\n
+        Darul Uloom Deoband was established in Indian Subcontinent in 1866 CE.\n
+
+    </string>
+    <string name="hatajari_madrasah2">
+          A few Ulema of the port-city Chittagong took \n\n
+        the decision to establish Al-Jamiatul Ahlia Darul Ulum Moinul Islam according to\n\n
+        the constitution of Darul Uloom Deoband.\n\n
+    </string>
+    <string name="hatajari_madrasah3">
+         To apply this decision Habibullah along with Abdul Wahed,\n\n
+        Azizur Rahman and Abdul Hamid established the madrasah.\n
+The Hathazari Madrasah became arguably \n
+        the most reputable Quomi madrasa in the country.\n\n
+
+    </string>
+    <string name="title_activity_mecca_dis">mecca_dis</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+</resources>
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/na11"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/na11"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".mecca_dis"
+            android:label="@string/title_activity_mecca_dis"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".hatajari_madrasah" />
+        <activity android:name=".Guthia_moqse" />
+        <activity android:name=".baitul_mukkerrom" />
+        <activity android:name=".modina" />
+        <activity android:name=".mecca" />
+        <activity android:name=".Zakater_khtsmuho" />
+        <activity android:name=".Zakt_kader_pore_foroj" />
+        <activity android:name=".Send" />
+        <activity android:name=".saher" />
+        <activity android:name=".Wether" />
+        <activity android:name=".Toolse" />
+        <activity android:name=".sideshow" />
+        <activity android:name=".zakat_Er_bisoe" />
+        <activity android:name=".hazz_er_sunnat" />
+        <activity android:name=".hazz_er_wajiv" />
+        <activity android:name=".hazzz_er_foroj" />
+        <activity android:name=".gallary" />
+        <activity android:name=".home" />
+        <activity android:name=".hazz_erbisoe" />
+        <activity android:name=".Tarabirmonajat" />
+        <activity android:name=".Tarabirdo" />
+        <activity android:name=".sura_nas" />
+        <activity android:name=".sura_falaq" />
+        <activity android:name=".sura_fil" />
+        <activity android:name=".sura_fatiha" />
+        <activity android:name=".rjiftarir_dowa" />
+        <activity android:name=".sahirirdowa" />
+        <activity android:name=".rojaerdowa" />
+        <activity android:name=".monajaterdowa" />
+        <activity android:name=".namazerimportent_surs" />
+        <activity android:name=".namazer_masnundowa" />
+        <activity android:name=".namazervongerkaronn" />
+        <activity android:name=".namazermustahabb" />
+        <activity android:name=".nazersunnatt" />
+        <activity android:name=".namazerwajiv" />
+        <activity android:name=".namazerforoj" />
+        <activity android:name=".namazermasala" />
+        <activity android:name=".ojuvongerkaroon" />
+        <activity android:name=".gosoforoj" />
+        <activity android:name=".taemmomfro" />
+        <activity android:name=".ojufro" />
+        <activity android:name=".ojusunnat" />
+        <activity android:name=".ojurdowa" />
+        <activity android:name=".namaza" />
+        <activity android:name=".namazz" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".logu"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

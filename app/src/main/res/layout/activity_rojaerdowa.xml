@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rojaerdowa"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_marginVertical="4dp"
+    android:background="@drawable/ba1">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginVertical="5dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="রোজার নিয়ত"
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:padding="15dp"
+            android:layout_marginVertical="4dp"
+            android:id="@+id/rjniat"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="ইফতারের দোয়া"
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:padding="15dp"
+            android:layout_marginVertical="4dp"
+            android:id="@+id/ifniat"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তারাবিহ দোয়া"
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:padding="15dp"
+            android:layout_marginVertical="4dp"
+            android:id="@+id/trdowa"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তারাবি নামাজের মোনাজাত:"
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:padding="15dp"
+            android:layout_marginVertical="4dp"
+            android:id="@+id/trmonjat"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="back"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:layout_marginTop="150dp"
+            android:id="@+id/rjback"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

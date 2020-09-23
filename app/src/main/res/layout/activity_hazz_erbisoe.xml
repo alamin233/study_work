@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hazz_erbisoe"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_marginVertical="4dp"
+    android:background="@drawable/ba1">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginVertical="5dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হজ্জ্বের ফরজ যথাঃ"
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:padding="15dp"
+            android:layout_marginVertical="4dp"
+            android:id="@+id/hazz_foro"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হজ্জের ওয়াজিব সমূহ  "
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:padding="15dp"
+            android:layout_marginVertical="4dp"
+            android:id="@+id/hazz_waji"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হজ্জ্বের সুন্নাতসমূহ"
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:padding="15dp"
+            android:layout_marginVertical="4dp"
+            android:id="@+id/hazz_sun"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="back"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:layout_marginTop="150dp"
+            android:id="@+id/hzzback"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

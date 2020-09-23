@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".namazz"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/ba3"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="ozur rulse"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="@color/nil"
+        android:layout_marginTop="20dp"
+        android:id="@+id/ruls"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="namzer masala"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="@color/nil"
+        android:layout_marginTop="20dp"
+        android:id="@+id/Masalaa"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="masnun dowa"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="@color/nil"
+        android:layout_marginTop="20dp"
+        android:id="@+id/dowa"
+        />
+    <Button
+        android:id="@+id/sura"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_marginTop="20dp"
+        android:text="namazer importent sura"
+        android:textColor="@color/nil"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="monazat"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="@color/nil"
+        android:layout_marginTop="20dp"
+        android:id="@+id/mona"
+        />
+    <Button
+        android:layout_width="178dp"
+        android:layout_height="67dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:background="@color/baa"
+        android:padding="10dp"
+        android:text="back"
+        android:textSize="30dp"
+        android:id="@+id/namazzback"
+        />
+    </LinearLayout>
+</ScrollView>
